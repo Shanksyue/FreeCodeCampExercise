@@ -1,1 +1,4 @@
 # FreeCodeCampExercise
+1、用来练习Freecodecamp上面的项目
+2、总结Freecodecamp学习到的知识
+3、拓展freecodecamp上面的知识
